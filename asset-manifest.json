@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/idkbio/static/css/main.35ed6ab8.css",
-    "main.js": "/idkbio/static/js/main.6f355c5c.js",
+    "main.js": "/idkbio/static/js/main.5cc1033f.js",
     "index.html": "/idkbio/index.html",
     "main.35ed6ab8.css.map": "/idkbio/static/css/main.35ed6ab8.css.map",
-    "main.6f355c5c.js.map": "/idkbio/static/js/main.6f355c5c.js.map"
+    "main.5cc1033f.js.map": "/idkbio/static/js/main.5cc1033f.js.map"
   },
   "entrypoints": [
     "static/css/main.35ed6ab8.css",
-    "static/js/main.6f355c5c.js"
+    "static/js/main.5cc1033f.js"
   ]
 }
